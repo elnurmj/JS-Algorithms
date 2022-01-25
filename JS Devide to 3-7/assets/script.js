@@ -10,4 +10,5 @@ function devideTo3And7(n){
         console.log("Number is not devided to 3 and 7");
     }
 }
-alert("Welcome Cavid Bashirov")
+alert("Welcome Cavid Bashirov");
+alert("welcome Sunal Jabili");

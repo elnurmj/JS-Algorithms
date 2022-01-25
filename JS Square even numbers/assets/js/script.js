@@ -16,3 +16,4 @@ function numbers(arr){
 }
 
 alert("Welcome Cavid Bashirov")
+alert("Welcome Sunal Jabili")
